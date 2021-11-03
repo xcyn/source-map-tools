@@ -1,0 +1,23 @@
+{
+  "name": "source-map-tools",
+  "version": "1.0.0",
+  "description": "ource-map 反解工具",
+  "main": "tools.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xcyn/source-map-tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xcyn/source-map-tools/issues"
+  },
+  "homepage": "https://github.com/xcyn/source-map-tools#readme",
+  "dependencies": {
+    "path-loader": "^1.0.1",
+    "source-map": "^0.7.3"
+  }
+}
